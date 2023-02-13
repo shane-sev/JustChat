@@ -1,4 +1,5 @@
 # JustChat
+JustChat is a web-based messaging application developed by Shane Severino, Waylon Ho, Eric Song, and Zachary Chaikin.  
 
 ## Progress
 Complete:
