@@ -16,7 +16,7 @@ Pending:
 - Done:
   - project setup
   - initial frontend structure
-  - beginning server backend
+  - started server backend
 - Next Steps:
   - complete server backend
   - server authentication
@@ -29,8 +29,12 @@ Pending:
 
 **Waylon:**
 - Done:
+  - initial frontend design
 - Next Steps:
+  - final frontend design
 
 **Zachary:**
 - Done:
+  - initial frontend design
 - Next Steps:
+  - final frontend design
