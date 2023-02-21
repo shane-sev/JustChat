@@ -8,12 +8,18 @@ Complete:
 
 Pending:
 - complete server backend
+- client authentication
+- server authentication
 
 ## Team Log (Breakdown)
 Shane:
-- project setup
-- initial frontend structure
-- beginning server backend
+- Current Work:
+-- project setup
+-- initial frontend structure
+-- beginning server backend
+- Next Steps:
+-- complete server backend
+-- server authentication
 
 Waylon:
 
