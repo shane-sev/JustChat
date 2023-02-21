@@ -1,5 +1,5 @@
 # JustChat
-JustChat is a web-based messaging application developed by Shane Severino, Waylon Ho, Eric Song, and Zachary Chaikin. JustChat's design follows the example given by JavaScript Mastery for creating a medical pager. 
+JustChat is a web-based messaging application developed by Shane Severino, Waylon Ho, Eric Song, and Zachary Chaikin. JustChat's design follows the tutorial given by JavaScript Mastery for creating a medical pager. 
 
 ## Progress
 Complete:
@@ -13,16 +13,21 @@ Pending:
 
 ## Team Log (Breakdown)
 Shane:
-- Current Work:
--- project setup
--- initial frontend structure
--- beginning server backend
+- Done:
+  - project setup
+  - initial frontend structure
+  - beginning server backend
 - Next Steps:
--- complete server backend
--- server authentication
+  - complete server backend
+  - server authentication
 
 Waylon:
+- Done:
+- Next Steps:
 
 Eric:
 
+
 Zachary:
+- Done:
+- Next Steps:
