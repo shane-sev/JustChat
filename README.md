@@ -10,10 +10,11 @@ Pending:
 - complete server backend
 - client authentication
 - server authentication
+- client server communication
 
 ## Team Log (Breakdown)
 **Shane:**
-- Done:
+- Worked On:
   - project setup
   - initial frontend structure
   - started server backend
@@ -22,19 +23,19 @@ Pending:
   - server authentication
 
 **Eric:**
-- Done:
+- Worked On:
   - started client authentication
 - Next Steps:
   - complete client authentication
 
 **Waylon:**
-- Done:
-  - initial frontend design
+- Worked On:
+  - Created custom react components to interact with StreamChat
 - Next Steps:
-  - final frontend design
+  - finish implementing react components with client side functionality
 
 **Zachary:**
-- Done:
-  - initial frontend design
+- Worked On:
+  - initial frontend design (website layout)
 - Next Steps:
-  - final frontend design
+  - finalize frontend design
