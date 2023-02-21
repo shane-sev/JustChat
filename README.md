@@ -12,7 +12,7 @@ Pending:
 - server authentication
 
 ## Team Log (Breakdown)
-Shane:
+**Shane:**
 - Done:
   - project setup
   - initial frontend structure
@@ -21,13 +21,16 @@ Shane:
   - complete server backend
   - server authentication
 
-Waylon:
+**Eric:**
+- Done:
+  - started client authentication
+- Next Steps:
+  - complete client authentication
+
+**Waylon:**
 - Done:
 - Next Steps:
 
-Eric:
-
-
-Zachary:
+**Zachary:**
 - Done:
 - Next Steps:
